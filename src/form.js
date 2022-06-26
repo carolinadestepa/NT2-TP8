@@ -9,7 +9,7 @@ const options = {
       },
       
       'rango-numero': function(value){
-        if( value>=0 && value<=10) {
+        if( value>=18 && value<=120) {
             return true;
         }
     },

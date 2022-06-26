@@ -15,12 +15,7 @@
               <a class="nav-link" href="#">Formulario</a>
             </router-link>
           </li>
-
-           <li class="nav-item">
-            <router-link to="/multiplechoise">
-              <a class="nav-link" href="#">MultipleChoise</a>
-            </router-link>
-          </li>
+                 
          </ul>
       </div>
     </nav>
@@ -43,7 +38,7 @@
       }
     },
     methods: {
-
+      
     },
     computed: {
 
